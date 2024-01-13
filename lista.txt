@@ -1,0 +1,6 @@
+LogInit: Display: Loading text-based GConfig....
+LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+LogInit: Warning: No paths for engine localization data were specifed in the engine configuration.
+LogPakFile: Display: Using command line for crypto configuration
+LogPakFile: Error: Incorrect arguments. Expected: -List <PakFile> [-SizeFilter=N]
+LogPakFile: Display: Unreal pak executed in 0.000888 seconds

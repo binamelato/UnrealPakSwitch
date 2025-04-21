@@ -5,7 +5,7 @@
 
 Original Themes (All questions are there): 
 
-https://gbatemp.net/threads/how-to-unpack-and-repack-unreal-engine-4-files.531784/
+[gbatemp.net](https://gbatemp.net/threads/how-to-unpack-and-repack-unreal-engine-4-files.531784/)
 
 What you need to download:
 - Package "UnrealPakSwitchv10.zip" and unpack it.
@@ -56,3 +56,9 @@ It will show:
 >Version: X
 
 Where X is a version of your package.
+
+### How to get AES Guide
+[Guide from Cracko298](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide)
+
+### Other Instruments for Unpacking
+[github Buckminsterfullerene02](https://github.com/Buckminsterfullerene02/UE-Modding-Tools)
